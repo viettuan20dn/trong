@@ -1,3 +1,4 @@
 # hello-worldf
 test
-Tôi là Tuấn, Tôi học Bách Khoa
+Tôi là Tuấn
+I am a student
